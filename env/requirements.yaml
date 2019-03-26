@@ -1,4 +1,7 @@
 dependencies:
+- name: anipet
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.72
 - name: dental
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.129
