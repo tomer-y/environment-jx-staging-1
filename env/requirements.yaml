@@ -16,6 +16,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: monday
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.73
 - name: z-crave
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.109
