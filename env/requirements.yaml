@@ -18,7 +18,7 @@ dependencies:
   version: 2.3.89
 - name: monday
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.73
+  version: 0.0.74
 - name: z-crave
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.109
