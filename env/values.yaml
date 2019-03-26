@@ -17,7 +17,8 @@ expose:
   config:
     domain: comvert.io
     exposer: Ingress
-    http: "true"
+    http: "false"
+    tls-acme: "true"
 jenkins:
   Servers:
     Global: {}
