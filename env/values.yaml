@@ -9,8 +9,8 @@ controllerbuild:
   enabled: null
 expose:
   Annotations:
-    #helm.sh/hook: post-install,post-upgrade
-    helm.sh/hook: post-install
+    helm.sh/hook: post-install,post-upgrade
+    #helm.sh/hook: post-install
     helm.sh/hook-delete-policy: hook-succeeded
   Args:
   - --v
