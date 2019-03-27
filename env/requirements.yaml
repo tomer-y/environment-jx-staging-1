@@ -21,7 +21,7 @@ dependencies:
   version: 0.0.77
 - name: optica-halperin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.27
+  version: 0.0.28
 - name: saas
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.146
