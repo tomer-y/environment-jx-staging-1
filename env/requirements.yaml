@@ -19,6 +19,9 @@ dependencies:
 - name: monday
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.74
+- name: optica-halperin
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.27
 - name: saas
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.146
