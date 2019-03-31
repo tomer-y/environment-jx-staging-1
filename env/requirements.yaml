@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.29
 - name: saas
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.148
+  version: 0.0.149
 - name: saas-server
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.57
