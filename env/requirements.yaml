@@ -1,7 +1,7 @@
 dependencies:
 - name: aggregationinterval
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.60
+  version: 0.0.61
 - name: anipet
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.95
