@@ -22,6 +22,9 @@ dependencies:
 - name: optica-halperin
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.34
+- name: persona-decide-helper
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: ribbedtee
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
