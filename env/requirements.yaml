@@ -27,7 +27,7 @@ dependencies:
   version: 0.0.6
 - name: ribbedtee
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.19
+  version: 0.0.20
 - name: saas
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.156
