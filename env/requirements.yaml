@@ -8,11 +8,14 @@ dependencies:
 - name: dental
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.144
-- alias: expose
+- name: dr-gav
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.6
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- alias: cleanup
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
