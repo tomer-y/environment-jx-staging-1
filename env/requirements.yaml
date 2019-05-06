@@ -39,7 +39,7 @@ dependencies:
   version: 0.0.63
 - name: select
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.236
+  version: 1.0.237
 - name: terminalx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.23
