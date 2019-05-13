@@ -7,7 +7,7 @@ dependencies:
   version: 0.0.139
 - name: dental
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.146
+  version: 0.0.147
 - name: dr-gav
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
