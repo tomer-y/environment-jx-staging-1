@@ -45,4 +45,4 @@ dependencies:
   version: 0.0.26
 - name: z-crave
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.174
+  version: 0.0.175
