@@ -42,7 +42,7 @@ dependencies:
   version: 1.0.243
 - name: terminalx
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.25
+  version: 0.0.26
 - name: z-crave
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.174
