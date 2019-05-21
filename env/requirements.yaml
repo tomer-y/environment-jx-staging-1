@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.152
 - name: dr-gav
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.17
+  version: 0.0.19
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
