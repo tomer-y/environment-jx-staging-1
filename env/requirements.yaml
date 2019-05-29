@@ -52,6 +52,9 @@ dependencies:
 - name: select
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.269
+- name: selectmedia
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.270
 - name: terminalx
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.37
