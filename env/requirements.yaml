@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.65
 - name: anipet
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.148
+  version: 0.0.149
 - name: daka90
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
