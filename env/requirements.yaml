@@ -36,7 +36,7 @@ dependencies:
   version: 0.0.79
 - name: optica-halperin
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.61
+  version: 0.0.62
 - name: persona-decide-helper
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
